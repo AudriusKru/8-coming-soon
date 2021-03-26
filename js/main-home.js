@@ -20,7 +20,9 @@
 
 
 /* import ka from kur */
-import suma from './components/sum.js';
+import { suma } from './components/sum.js';
+
+
 import { multiply } from './components/multiply.js';
 
 const rez1 = suma(8, 5);
