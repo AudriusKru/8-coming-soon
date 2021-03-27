@@ -11,9 +11,4 @@ const matematika = {
 
 }
 
-export {
-    suma,
-    minus,
-    multiply,
-    divide
-}
+export { matematika }
