@@ -12,13 +12,6 @@
 //    footer
 
 
-
-
-
-
-
-
-
 /* import ka from kur */
 import { suma } from './components/sum.js';
 

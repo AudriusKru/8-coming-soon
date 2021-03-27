@@ -1,5 +1,5 @@
 /* init */
-@import './init.reset.css';
+@import './init/reset.css';
 @import './init/variables.css';
 @import './init/layout.css';
 /* 3rd party */
@@ -13,9 +13,11 @@
 /* CUSTOM STYLE BY SECTIONS:  */
 
 /* hero start */
+/*
 form > input {
     color: white;
 }
+*/
 /* hero end */
 
 /* main content start */
